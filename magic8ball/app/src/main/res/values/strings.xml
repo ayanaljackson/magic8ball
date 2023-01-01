@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">magic8ball</string>
+    <string name="magic_8_ball">Magic 8 Ball</string>
+    <string name="ask">Ask</string>
+    <string name="one">TODO</string>
+    <string name="askMe">TODO</string>
+</resources>
